@@ -7,3 +7,5 @@ Day 2: Today, I solved the GeeksforGeeks problem of the day. Here is the link to
 Day 3: Today, I solved an interesting question from GeeksforGeeks. It was a simple one where we had to find the XOR of all the elements in the array and then just check whether the result is 0 or 1. According to the result, players won the match. Here is the answer and question with different approaches: https://www.geeksforgeeks.org/find-winner-nim-game/.". Also i started to learn python as well for my research paper.
 
 Day 4: Today, I solved a hard level problem in which I have distrube candies between children in such a way that every child should get one mnin candy and then distrub the candy according to the rating of the child. Here is the solution for the problem https://www.geeksforgeeks.org/minimum-number-of-candies-required-to-distribute-among-children-based-on-given-conditions/.
+
+Day 5: Today, I solved a medium level problem on the topic of Activity Selection which was easy here is the solution for the problem https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/. And today I finally started python and i am trying to build a rpm game for learning purpose.
