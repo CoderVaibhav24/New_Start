@@ -11,3 +11,7 @@ Day 4: Today, I solved a hard level problem in which I have distrube candies bet
 Day 5: Today, I solved a medium level problem on the topic of Activity Selection which was easy here is the solution for the problem https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/. And today I finally started python and i am trying to build a rpm game for learning purpose.
 
 Day 6: Today, I solved an easy level program where i have find the number of elements which occurs more than n/k in an array. In this I used hash map to calculate frequency of each element in O(N). Then i used a loop to counter the number.Here is the solution for this problem https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/. I also did my python a little.
+
+Day 7: Today, I solved an medium level program where i have to find the maximum number of stocks which can be bought on ith day. Here is the solution for this problem https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/. 
+
+Day 8: Today, I solved an easy level program where i have to find determinant of a matrix. Here is the solution https://www.geeksforgeeks.org/determinant-of-a-matrix/.
